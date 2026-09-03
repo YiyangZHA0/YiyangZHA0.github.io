@@ -98,18 +98,11 @@ He received his B.S. degree from the [Chu Kochen Honors College](https://ckc.zju
 
 - `arXiv 2026`: [BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language](https://arxiv.org/abs/2606.22138), Qizhi Pei<sup>†</sup>, Zhimeng Zhou<sup>†</sup>, Yi Duan<sup>†</sup>, **Yiyang Zhao**, Wei Li, Han Guo, Liang He, Chengping Li, Chang-Yu Hsieh, Conghui He, Rui Yan, Lijun Wu. 
 
-<span id="internships"></span>
-
-## Internships
-
-- 2026.09 - now, Research Intern at [BioMap](https://www.biomap.com/), Beijing, China.
-- 2026.04 - 2026.09, Research Intern at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China.
-
 <span id="competitions"></span>
 
 ## Competitions
 
-- **[ZJU-China](https://2025.igem.wiki/zju-china/) @ [iGEM 2025]**, Team Leader and Project Designer: 🥈 **Silver Medal**.
+- **[ZJU-China](https://2025.igem.wiki/zju-china/) @ [iGEM 2025](https://www.igem.org/)**, Team Leader and Project Designer: 🥈 **Silver Medal**.
 - **ZJU-China @ [SynBio Challenges 2025](https://isynbio.siat.ac.cn/cxqjzx/2025-10/14/article_2025101414340767460.html)**, Team Leader and Project Designer: 🏆 **Grand Prize**, 🥇 **Gold Medal**, and 🌱 **Best Environment/Agriculture Project Award**.
 - **TruSense @ [SensUs 2025](https://sensus.org/)**, Zhejiang University Team Member: 🥇 **Public Inspiration Award (1st Place)**, 🥉 **Innovation Award (3rd Place)**, and 🏅 **Final Medal**.
 

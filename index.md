@@ -109,9 +109,9 @@ He received his B.S. degree from the [Chu Kochen Honors College](https://ckc.zju
 
 ## Competitions
 
-- [ZJU-China @ iGEM 2025](https://2025.igem.wiki/zju-china/), **Team Captain and Project Designer**: 🥈 **Silver Medal**.
-- **ZJU-China @ SynBio Challenges 2025**, **Team Captain and Project Designer**: 🏆 **Grand Prize**, 🥇 **Gold Medal**, and 🌱 **Best Environment/Agriculture Project Award**.
-- **TruSense @ SensUs 2025**, Zhejiang University Team Member: 🥇 **Public Inspiration Award (1st Place)**, 🥉 **Innovation Award (3rd Place)**, and 🏅 **Final Medal**.
+- **[ZJU-China](https://2025.igem.wiki/zju-china/) @ [iGEM 2025]**, Team Leader and Project Designer: 🥈 **Silver Medal**.
+- **ZJU-China @ [SynBio Challenges 2025](https://isynbio.siat.ac.cn/cxqjzx/2025-10/14/article_2025101414340767460.html)**, Team Leader and Project Designer: 🏆 **Grand Prize**, 🥇 **Gold Medal**, and 🌱 **Best Environment/Agriculture Project Award**.
+- **TruSense @ [SensUs 2025](https://sensus.org/)**, Zhejiang University Team Member: 🥇 **Public Inspiration Award (1st Place)**, 🥉 **Innovation Award (3rd Place)**, and 🏅 **Final Medal**.
 
 <span id="honors"></span>
 
@@ -119,6 +119,6 @@ He received his B.S. degree from the [Chu Kochen Honors College](https://ckc.zju
 
 - 2026, **Outstanding Graduate of Zhejiang Province**
 - 2026, **Outstanding Graduate of Zhejiang University**
-- 2026, **Top Ten Student**, College of Life Sciences, Zhejiang University
+- 2026, **TOP 10 Outstanding Students**, College of Life Sciences, Zhejiang University
 - 2025, **National Scholarship**
 - 2023 – 2025, **First-Class Scholarship**, Zhejiang University
